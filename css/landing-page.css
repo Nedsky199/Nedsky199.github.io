@@ -18,6 +18,13 @@ h6 {
   font-weight: 700;
 }
 
+.font-weight-lighter {
+  font-size: 1.1rem;
+}
+.main-content .mt-15 {
+  margin-top: 5rem;
+}
+
 .bg-white {
   background-color: white !important;
 }
@@ -40,7 +47,6 @@ h6 {
 
 .dropdown-menu {
   position: absolute;
-  z-index: 1 !important;
 }
 
 .dropdown-item:hover {
@@ -119,6 +125,10 @@ footer.footer {
 
 .footer .list-inline-item-2 {
   display: block;
+}
+
+.content .lead{
+  
 }
 
 
